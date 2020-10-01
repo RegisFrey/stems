@@ -1,0 +1,18 @@
+{
+  "name": "stems",
+  "version": "0.0.1",
+  "description": "Text expansion and generation.",
+  "main": "index.js",
+  "repository": "https://github.com/RegisFrey/stems",
+  "author": "Regis Frey <RegisFrey@Darkfirestudios.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "ts-node ./tests/stems.spec.ts"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}

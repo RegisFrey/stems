@@ -1,0 +1,69 @@
+{
+  "origin":"You are standing in a room made of #material#. The room is #appointed#.\n#doors#",
+  "material":[
+    "sturdy rock",
+    "drab cement",
+    "rough wood board, tacked together rather haphazardly",
+    "a pleasant warm red brick",
+    "new corrugated metal painted a bright #color#",
+    "#color# plaster trimmed in #color#"
+  ],
+  "color":[
+    "mauve",
+    "taupe",
+    "sunset",
+    "viridian",
+    "crimson",
+    "honeysuckle"
+  ],
+  "appointed":[
+    "lavishly appointed, most strikingly with #things#",
+    "filled with #things# and #things#",
+    "startlingly empty",
+    "occupied by #persons#"
+  ],
+  "things":[
+    "old grandfather clocks",
+    "little baubles and bits",
+    "cakes of every variety",
+    "small corn husk dolls",
+    "a dozen or so little teacups, as if borrowed from a child's teaset",
+    "little flags of pink and white gingham",
+    "watercolor painting of #thingsOrPersons#",
+    "a series of portraits of #persons# and #persons#",
+    "roughly tacked up wallpaper in a #color# paisly print",
+    "a drooping flower that's been thumbtacked into the wall",
+    "a large and empty dolphin tank"
+  ],
+  "persons":[
+    "several well dressed bears",
+    "an elderly couple, sipping their tea",
+    "Amelia Earhart, in the midst of repairing her plane",
+    "a man in a stripped suit and flat cap"
+  ],
+  "thingsOrPersons":[
+    "#persons#",
+    "#things#"
+  ],
+  "doors":[
+    "There are doors to the #direction# and #direction#.",
+    "The only exit is to the #direction#.",
+    "Inexplicably the room has no exit or entrance.",
+    "There is a door to the #direction#.",
+    "Exits are #direction#, #direction#, and #direction#.",
+    "Exit is up.",
+    "The only place to go from here is down into the cellar below.",
+    "Tunnels lead #direction# and #direction#.",
+    "A sign points #direction# reading \"This way out\", but there is no door that direction."
+  ],
+  "direction":[
+    "North",
+    "South",
+    "East",
+    "West",
+    "Northeast",
+    "Northwest",
+    "Southeast",
+    "Southwest"
+  ]
+}
